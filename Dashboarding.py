@@ -1,4 +1,4 @@
-# Databricks notebook source
+# Databricks notebook source 
 # DBTITLE 1,Print info about the dataset we'll use
 f = open('/dbfs/databricks-datasets/COVID/covid-19-data/README.md', 'r')
 print(f.read())
